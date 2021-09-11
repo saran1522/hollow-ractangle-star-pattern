@@ -1,0 +1,1 @@
+# hollow-ractangle-star-pattern
